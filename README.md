@@ -1,4 +1,5 @@
 <img align="left" alt="Metrics" src="https://github.com/bobbyinvent/bobbyinvent/blob/main/github-metrics.svg">
+<img alt="Tiny Yellow" src="https://github.com/bobbyinvent/bobbyinvent/blob/main/tiny-yellow.jpg">
 
 ### My simple projects
 
